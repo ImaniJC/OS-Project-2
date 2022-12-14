@@ -1,4 +1,4 @@
-//worked with amira and mary
+//Received help from Amira
 #include  <stdio.h>
 #include  <stdlib.h>
 #include  <sys/types.h>
